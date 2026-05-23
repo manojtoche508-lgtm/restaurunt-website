@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background-color: #52a33ecc;
+}
+
+header {
+    background-color: hsl(142, 100%, 27%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-color: orange;
+    color: white;
+}
+
+button {
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+.special {
+    padding: 20px;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+table {
+    background-color: white;
+    margin-top: 30px;
+}
+
+form {
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
